@@ -1,6 +1,6 @@
 .pragmatic_header_logo{
     margin: 2rem 0;
-    font-family:'Kumar One Outline', cursive;
+    font-family: 'Festive', cursive;
 }
 
 .pragmatic_header_button{
@@ -8,26 +8,28 @@
 }
 
 .pragmatic_footer_logo{
+
     text-align:center;
 }
 
 .pragmatic_footer_button{
-    margin-top:2rem;
+
+     margin-top:2rem;
 }
 
 .mw-500{
     max_width: 500px;
     padding : 1rem 1.5rem;
+}
 
-.profile_image{
+
+.profile_image {
     height: 12rem;
     width: 12rem;
     border-radius: 20rem;
     object-fit: cover;
 }
 
-.NNS_B{
-
-    font-family:"NanumSquareB", cursive;
-
+.NNS_B {
+    font-family: "NanumSquareB", cursive;
 }
